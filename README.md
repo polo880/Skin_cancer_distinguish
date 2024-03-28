@@ -1,6 +1,8 @@
  - Skin cancer distinguish
 distinguish skin condition between rash, acne and normal skin.
+
 use pre-trained model ResNet50 in our model.
+
 Model got 97.3% accuracy rate.
 
 
