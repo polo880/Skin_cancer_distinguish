@@ -1,4 +1,5 @@
  - Skin cancer distinguish
+
 distinguish skin condition between rash, acne and normal skin.
 
 use pre-trained model ResNet50 in our model.
